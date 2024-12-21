@@ -1,6 +1,3 @@
-
-#### Exemple pour les designers (`designers/guidelines.md`) :
-```markdown
 # Directives pour les designers
 
 ## Branding
@@ -17,4 +14,3 @@ Respectez ces règles pour conserver la cohérence visuelle de nos templates.
 Nos composants incluent :
 - Boutons primaires : large et avec un gradient.
 - Formulaires : champs arrondis et labels obligatoires.
-
