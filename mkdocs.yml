@@ -1,0 +1,21 @@
+site_name: DevStudio
+site_description: "Documentation pour les développeurs et designers utilisant les templates DevStudio"
+site_author: "Équipe DevStudio"
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: pink
+
+nav:
+  - Accueil: index.md
+  - Développeurs:
+      - API Guide: developers/api-guide.md
+      - Installation: developers/installation.md
+      - Bonnes pratiques: developers/best-practices.md
+  - Designers:
+      - Guidelines: designers/guidelines.md
+      - Ressources: designers/resources.md
+      - Outils recommandés: designers/tools.md
+  - FAQ: faq.md
+  - Contact: contact.md
