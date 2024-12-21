@@ -19,3 +19,4 @@ Pour travailler sur ce projet, vous devez avoir Python et MkDocs installés.
 ### Installation de MkDocs
 ```bash
 pip install mkdocs
+pip install mkdocs-material
