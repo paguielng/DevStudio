@@ -8,3 +8,9 @@ Bienvenue dans le guide de l'API DevStudio. Ce document vous expliquera comment 
 - Exemple de requête :
   ```bash
   curl -X GET "https://api.devstudio.com/v1/templates" -H "Authorization: Bearer <votre-cle-api>"
+
+# Guide API
+
+## Points d'API
+- **GET** `/templates` : Liste tous les templates disponibles.
+- **POST** `/templates` : Ajoute un nouveau template.
