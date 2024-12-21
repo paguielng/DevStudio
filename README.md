@@ -1,21 +1,24 @@
 # DevStudio
 
-Bienvenue dans le projet **DevStudio** ! Ce dépôt contient la documentation pour nos templates de code, générée avec [MkDocs](https://www.mkdocs.org).
+DevStudio is a premium platform for selling customizable web code templates tailored for developers and designers seeking reliable and aesthetic solutions.
 
-## Structure du projet
+## Features
+- **Template Marketplace:** Ready-to-use web templates for various projects.
+- **API Integration:** Customizable templates with flexible options.
+- **Support:** Responsive customer assistance and detailed documentation.
 
-- `mkdocs.yml` : Fichier de configuration principal pour MkDocs.
-- `docs/` : Dossier contenant les fichiers Markdown de la documentation.
-  - `index.md` : Page d'accueil de la documentation.
-  - `about.md` : Page "À propos".
-  - `products/` : Dossier pour décrire nos produits.
-    - `websites.md` : Détails sur les sites web.
-    - `others.md` : Détails sur les autres produits.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/paguielng/DevStudio.git
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## Prérequis
-
-Pour travailler sur ce projet, vous devez avoir Python et MkDocs installés.
-
-### Installation de MkDocs
-```bash
-pip install mkdocs
+## Usage
+1. Serve documentation locally:
+   ```bash
+   mkdocs serve
+   ```
