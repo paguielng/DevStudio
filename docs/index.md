@@ -1,0 +1,12 @@
+docs/
+    index.md
+    developers/
+        api-guide.md
+        installation.md
+        best-practices.md
+    designers/
+        guidelines.md
+        resources.md
+        tools.md
+    faq.md
+    contact.md
