@@ -1,0 +1,5 @@
+```plaintext
+mkdocs
+mkdocs-material
+pytest
+```
