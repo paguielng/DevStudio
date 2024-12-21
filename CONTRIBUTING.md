@@ -20,4 +20,3 @@ pytest
 ```
 
 Thank you for contributing!
-```
